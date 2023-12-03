@@ -1,0 +1,77 @@
+.heading1{
+    color: #FFF;
+    font-family: Carter One;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 48px;
+    text-transform: uppercase;
+    text-shadow: 0px 4px 5px rgba(0, 0, 0, 0.50);
+  }
+  .heading2{
+    color: #FFF;
+    font-family: League Spartan;
+    font-size: 64px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+  }
+  .heading3{
+    color: #FFF;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    font-family: League Spartan;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+  }
+  .subheading3{
+    color: #2F2482;
+    font-family: Carter One;
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 43px; 
+    text-transform: uppercase;
+  }
+  .heading4{
+    color: #FFB84D;
+    font-family: Kanit;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 36px;
+    text-transform: uppercase;
+  }
+  .text_24{
+    color: #FFB84D;
+    font-family: Kanit;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 30px;
+  }
+  .text_20{
+    color: #2D7DD2;
+    font-family: Kanit;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 20px;
+  }
+  .text_16{
+    color: #2F2482;
+    font-family: Kanit;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 20px;
+  }
+  .text_14{
+    color: #2F2482;
+    font-family: Kanit;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 14px; 
+  }

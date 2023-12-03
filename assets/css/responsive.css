@@ -1,0 +1,801 @@
+@media all and (max-width: 1365px) {
+  .heading2 {
+    font-size: 50px;
+  }
+  .bottom_yellow_content {
+    -ms-grid-columns: (1fr) [2];
+    grid-template-columns: repeat(2, 1fr);
+  }
+  .modifica_wrapper {
+    gap: 20px;
+  }
+  .s_ticket_logo {
+    max-width: 160px;
+  }
+  .text_32 {
+    font-size: 30px;
+  }
+  .s_ticket_right {
+    padding: 0 70px 35px 70px;
+  }
+  .s_ticket_left {
+    -webkit-column-gap: 65px;
+    -moz-column-gap: 65px;
+    column-gap: 65px;
+  }
+}
+@media all and (max-width: 1199px) {
+  .compagnie_inner_text .btn1 {
+    padding: 11px 29px;
+  }
+  .scopri_content {
+    -ms-grid-columns: (1fr) [1];
+    grid-template-columns: repeat(1, 1fr);
+  }
+  .ticket_content_buttom {
+    padding: 10px 46px 33px;
+  }
+  .modifica_area {
+    padding: 24px 40px;
+  }
+  .s_ticket_right {
+    padding: 0 20px 35px 20px;
+  }
+  .text_32 {
+    font-size: 28px;
+  }
+  .s_ticket_left {
+    padding: 0 20px;
+    -webkit-column-gap: 28px;
+    -moz-column-gap: 28px;
+    column-gap: 28px;
+  }
+  .s_con_middle {
+    max-width: 150px;
+  }
+}
+@media all and (max-width: 1024px) {
+  .heading1 {
+    font-size: 40px;
+    line-height: 42px;
+  }
+
+  .heading3 {
+    font-size: 35px;
+  }
+  .subheading3 {
+    font-size: 30px;
+    line-height: 38px;
+  }
+  .heading4 {
+    font-size: 28px;
+    line-height: 34px;
+  }
+  .text_24 {
+    font-size: 22px;
+    line-height: 28px;
+  }
+  .text_20 {
+    font-size: 18px;
+    line-height: 18px;
+  }
+
+  .footer_content {
+    gap: 40px 50px;
+  }
+  .single_grimaldi {
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -ms-flex-direction: column;
+    flex-direction: column;
+  }
+  .data_form_area {
+    padding-bottom: 150px;
+  }
+  .modifica_area {
+    padding: 24px 40px;
+  }
+  .tabs_itiner_btn {
+    padding: 15px 65px;
+  }
+  .tabs_home_btn {
+    padding: 18px 67px;
+  }
+  .s_ticket_right_img_top {
+    max-width: 200px;
+  }
+
+  .s_ticket_right_content h3 {
+    padding: 6px 0;
+  }
+  .text_24 {
+    font-size: 20px;
+  }
+  .passeggeri_contents {
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -ms-flex-direction: column;
+    flex-direction: column;
+  }
+  .pass_main_right {
+    -webkit-box-ordinal-group: 0;
+    -ms-flex-order: -1;
+    order: -1;
+  }
+
+  .megha_content:before {
+    position: absolute;
+    content: "";
+    height: 0px;
+    width: 0px;
+  }
+  .megha_content:after {
+    height: 300px;
+    width: 300px;
+    left: 0;
+  }
+  .menu > ul > li {
+    width: 96px;
+    text-align: center;
+  }
+  .soc_text p {
+    font-size: 13px;
+    top: 23px;
+    right: -1px;
+  }
+}
+@media all and (min-width: 992px) {
+  .header-menu {
+    display: -webkit-box !important;
+    display: -ms-flexbox !important;
+    display: flex !important;
+  }
+}
+@media all and (max-width: 991px) {
+  /* Mobile menu ----------------------------*/
+  .mobile-menu {
+    display: block;
+  }
+  .mibile_flag {
+    display: block;
+    margin-left: 15px;
+    margin-top: 12px;
+  }
+  .menu > ul > li {
+    text-align: left;
+    margin-left: 20px;
+  }
+  .desk_flag {
+    display: none;
+  }
+  .mobile_none {
+    display: none;
+  }
+  .header_profile_user {
+    margin-right: 60px;
+  }
+  .menu_area {
+    position: absolute;
+    left: 0;
+    top: 100%;
+    width: 100%;
+    height: 100vh;
+    background: #2f2482;
+    display: none;
+    z-index: 99999;
+  }
+  .menu > ul {
+    -webkit-box-align: start;
+    -ms-flex-align: start;
+    -ms-grid-row-align: flex-start;
+    align-items: flex-start;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    padding: 50px 0px;
+  }
+  .header_content_area {
+    padding: 10px 10px;
+  }
+  .logo_area a img {
+    width: 200px;
+  }
+  .menu .dropdown-menu.show {
+    -webkit-transform: translateX(0px) !important;
+    transform: translateX(0px) !important;
+    top: 96px !important;
+    left: 0 !important;
+    width: 100%;
+  }
+  /* Mobile menu ----------------------------*/
+
+  .Compagnie_content {
+    -ms-grid-columns: (1fr) [1];
+    grid-template-columns: repeat(1, 1fr);
+  }
+  .compagnie_inner_text {
+    -webkit-box-pack: justify;
+    -ms-flex-pack: justify;
+    justify-content: space-between;
+  }
+  .top_yellow_content {
+    -ms-grid-columns: (1fr) [1];
+    grid-template-columns: repeat(1, 1fr);
+  }
+  .bottom_yellow_content {
+    -ms-grid-columns: (1fr) [1];
+    grid-template-columns: repeat(1, 1fr);
+  }
+  .perce_content {
+    -ms-grid-columns: (1fr) [1];
+    grid-template-columns: repeat(1, 1fr);
+    gap: 50px;
+  }
+  .right_single_perce_content {
+    margin-left: 12px;
+  }
+  .footer_content {
+    -webkit-box-pack: start;
+    -ms-flex-pack: start;
+    justify-content: flex-start;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+  }
+  .footer_first_items .text_14 {
+    padding-bottom: 15px;
+  }
+  .footer_first_items > img {
+    margin-bottom: 16px;
+  }
+  .left_single_perce_content {
+    max-width: 100%;
+    padding-right: 12px;
+    padding-left: 12px;
+  }
+  .news_content {
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -ms-flex-direction: column;
+    flex-direction: column;
+  }
+  .news_categorie_main {
+    max-width: 100%;
+  }
+  .flag_content {
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+  }
+  .Estratto_top_section {
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -ms-flex-direction: column;
+    flex-direction: column;
+  }
+  .inner_codice_content2 {
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+  }
+  .data_form_area {
+    padding-bottom: 120px;
+  }
+  .tabs_home_btn {
+    padding: 17px 40px;
+  }
+  .tabs_itiner_btn {
+    padding: 15px 50px;
+  }
+  .banner_all_tab_items {
+    padding: 10px;
+    -ms-flex-pack: distribute;
+    justify-content: space-around;
+  }
+  .modifica_wrapper {
+    gap: 15px;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -ms-flex-direction: column;
+    flex-direction: column;
+  }
+  .custom-select select {
+    width: 200px;
+  }
+  .s_ticket_left {
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    row-gap: 30px;
+  }
+  .text_32 {
+    font-size: 26px;
+  }
+  .text_24 {
+    font-size: 18px;
+  }
+  .all_tecket_btn a {
+    font-size: 20px;
+  }
+  .all_tecket_btn {
+    padding: 16px 0 50px 0;
+  }
+  .passenger_right_select .form-group input {
+    max-width: 370px;
+  }
+  .passenger_right_select .custom-select select {
+    width: 370px;
+  }
+  .passeggeri_tittle {
+    -webkit-box-pack: justify;
+    -ms-flex-pack: justify;
+    justify-content: space-between;
+    gap: 50px;
+  }
+  .discount_filed img {
+    left: 258px;
+  }
+  .ticket_b_right {
+    padding: 24px 40px;
+    gap: 30px;
+  }
+  .ticket_B_left img {
+    max-width: 50px;
+  }
+  .ticket_B_left {
+    padding: 33px 24px;
+    gap: 16px;
+  }
+  .single_pass form .input-group .btn_img {
+    top: 0px;
+  }
+  .single_pass form .input-group .btn_img img {
+    max-width: 69px;
+  }
+
+  .megha_content {
+    gap: 40px 40px;
+  }
+  .menu .dropdown-menu {
+    padding: 32px 10px;
+  }
+
+  .utente_banner_area {
+    background-size: 200% 100%;
+  }
+}
+
+@media all and (max-width: 767px) {
+  .home_banner_area {
+    background-size: cover;
+  }
+  .footer_area {
+    padding: 50px 0px;
+  }
+  /* .utente_banner_area {
+    background-size: 200% 100%;
+  } */
+  .dati_tab_content {
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -ms-flex-direction: column;
+    flex-direction: column;
+  }
+  .albania_banner_area {
+    -webkit-clip-path: ellipse(86% 72% at 50% 28%);
+    clip-path: ellipse(86% 72% at 50% 28%);
+  }
+  .portfolio_img img {
+    height: 270px;
+  }
+  .Articolo_content {
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -ms-flex-direction: column;
+    flex-direction: column;
+  }
+  .single_articolo_right {
+    text-align: left;
+  }
+  .single_articolo_right .text_24 {
+    text-align: left !important;
+  }
+  .single_news_categorie {
+    gap: 30px;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -ms-flex-direction: column;
+    flex-direction: column;
+  }
+  .single_news_img img {
+    max-width: 100%;
+    width: 100%;
+    min-width: 290px;
+    min-height: 239px;
+    max-height: 250px;
+    height: 100%;
+  }
+  .codice_content {
+    -ms-grid-columns: (1fr) [1];
+    grid-template-columns: repeat(1, 1fr);
+    max-width: 350px;
+    width: 100%;
+    margin: auto;
+  }
+  .tabs_itiner_btn {
+    padding: 15px 24px;
+  }
+  .tabs_home_btn {
+    padding: 17px 16px;
+  }
+  .single_tab_btn_icon {
+    max-width: 30px;
+  }
+  .modifica_area {
+    padding: 20px 15px;
+  }
+  .ticket_content_buttom {
+    padding: 10px 30px 28px;
+  }
+  .s_ticket_logo {
+    max-width: 130px;
+  }
+  .s_ticket_left {
+    row-gap: 15px;
+  }
+  .s_ticket_right_img_top {
+    max-width: 200px;
+  }
+  .text_32 {
+    font-size: 17px;
+  }
+  .s_ticket_right_content h3 {
+    padding: 0px 0;
+  }
+  .s_ticket_right {
+    padding: 0 5px 52px 5px;
+  }
+  .all_tecket_btn {
+    padding: 16px 0 30px 0;
+  }
+  .all_tecket_btn a {
+    font-size: 15px;
+  }
+  .s_ticket_right_content p {
+    padding-top: 15px;
+  }
+  .passeggeri_tittle {
+    padding: 10px 30px;
+  }
+  .passenger_single_item_midd {
+    -webkit-box-align: start;
+    -ms-flex-align: start;
+    -ms-grid-row-align: flex-start;
+    align-items: flex-start;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -ms-flex-direction: column;
+    flex-direction: column;
+  }
+  .passenger_single_item_buttom {
+    -webkit-box-align: start;
+    -ms-flex-align: start;
+    -ms-grid-row-align: flex-start;
+    align-items: flex-start;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -ms-flex-direction: column;
+    flex-direction: column;
+  }
+  .extra_pass {
+    padding-bottom: 50px;
+  }
+  .extra_display {
+    gap: 0px;
+  }
+  .passeggeri_items_two {
+    padding: 24px 15.5px 50px 15.5px;
+  }
+  .passenger_buttom_froms form .custom-select select {
+    width: 240px;
+  }
+  .passe_btn button {
+    font-size: 18px;
+  }
+  .all_additional_items {
+    -ms-grid-columns: (1fr) [1];
+    grid-template-columns: repeat(1, 1fr);
+  }
+  .ticket_B_left {
+    padding: 10px 24px;
+  }
+  .ticket_B_left p {
+    font-size: 17px;
+  }
+  .ticket_b_right {
+    padding: 15px 15px;
+    gap: 30px;
+  }
+
+  .megha_content {
+    -ms-grid-columns: (1fr) [4];
+    grid-template-columns: repeat(4, 1fr);
+    gap: 20px 15px;
+  }
+  .single_megha_items .form-check {
+    padding: 5px 10px;
+  }
+}
+
+@media all and (max-width: 575px) {
+  .hero_content {
+    border-radius: 0px;
+    border: none;
+    padding: 40px 20px;
+  }
+  .andata_text {
+    left: 50%;
+    -webkit-transform: translateX(-50%);
+    transform: translateX(-50%);
+  }
+  .andata_text {
+    top: 34px;
+  }
+  .single_andata {
+    padding: 5px 7px;
+  }
+  .single_hero_main {
+    padding-top: 70px;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+  }
+  .Passeggeri_input_fild input {
+    max-width: 145px;
+  }
+  .hero_btn_area {
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -ms-flex-direction: column;
+    flex-direction: column;
+  }
+  /* .check_fild {
+    flex-wrap: wrap;
+  } */
+
+  .compagnie_inner_text {
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    gap: 16px;
+  }
+  .yellow_inner_text {
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -ms-flex-direction: column;
+    flex-direction: column;
+  }
+  .single_input_fild {
+    margin-top: 20px;
+  }
+  .footer_first_items > img {
+    max-width: 180px;
+    height: 50px;
+  }
+  .social_link a i {
+    font-size: 26px;
+  }
+  .utente_inner_content {
+    padding: 30px 30px 40px 30px;
+  }
+  .error_text {
+    padding-top: 12px;
+    padding-bottom: 12px;
+  }
+  .tab_itmes_main .nav-tabs .nav-link {
+    width: 300px;
+  }
+  .single_input_passeggero.date_fild {
+    max-width: 240px;
+  }
+
+  .albania_banner_content {
+    padding-top: 180px;
+  }
+
+  .single_scopri {
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -ms-flex-direction: column;
+    flex-direction: column;
+  }
+  .single_scopri_left img {
+    max-width: 260px;
+  }
+  .news_categorie ul li a {
+    font-size: 20px;
+  }
+  .news_categorie ul li {
+    padding: 9px 0px;
+  }
+  .Estratto_top_right .btn1 {
+    font-size: 13px;
+  }
+  .Estratto_top_section {
+    border-radius: 20px;
+    padding: 24px 15px;
+  }
+  .codice_right_title2 .text_20 {
+    line-height: 30px;
+  }
+  .codice_btn_area {
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+  }
+  .codice_title2 {
+    -webkit-box-align: start;
+    -ms-flex-align: start;
+    -ms-grid-row-align: flex-start;
+    align-items: flex-start;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -ms-flex-direction: column;
+    flex-direction: column;
+  }
+  .Estratto_top_left {
+    gap: 20px 20px;
+  }
+  .Estratto_top_left img {
+    height: 25px;
+  }
+  .titolare_inner_content {
+    -ms-grid-columns: (1fr) [2];
+    grid-template-columns: repeat(2, 1fr);
+  }
+  .banner_all_tab_items {
+    padding: 20px 0;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -ms-flex-direction: column;
+    flex-direction: column;
+  }
+  .modifica_left {
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -ms-flex-direction: column;
+    flex-direction: column;
+  }
+  .ticket_content_top {
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    row-gap: 15px;
+  }
+  .ticket_content_buttom {
+    padding: 16px 15px 20px;
+  }
+  .ticket_content_buttom {
+    -webkit-column-gap: 13px;
+    -moz-column-gap: 13px;
+    column-gap: 13px;
+  }
+  .single_tickets {
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    row-gap: 40px;
+  }
+  .s_ticket_right {
+    border-left: transparent;
+    padding: 0 5px 20px 5px;
+  }
+  .s_ticket_left {
+    row-gap: 15px;
+    padding-top: 10px;
+  }
+  .tabs_itiner_btn {
+    padding: 10px 20px;
+  }
+  .tabs_home_btn {
+    padding: 13px 20px;
+  }
+  .tabs_parti_btn {
+    padding: 10px 20px;
+  }
+  .text_20 {
+    font-size: 15px;
+  }
+  .passeggeri_tittle_left_con img {
+    width: 35px;
+  }
+  .passeggeri_tittle_right_con {
+    max-width: 35px;
+  }
+  .extra_display {
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    row-gap: 16px;
+  }
+  .passeggeri_items_two {
+    padding: 24px 15.5px 30px 15.5px;
+  }
+  .calculate_price_area {
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    row-gap: 20px;
+  }
+  .calculate_price_content {
+    -webkit-box-ordinal-group: 0;
+    -ms-flex-order: -1;
+    order: -1;
+  }
+  .calculate_price_btn .btn2 {
+    font-size: 20px;
+  }
+  .passe_btn button {
+    font-size: 20px;
+  }
+  .ticket_B_left {
+    padding: 6px 3px;
+  }
+  .footer_first_items {
+    max-width: 100%;
+    text-align: center;
+  }
+  .social_link {
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+  }
+  .megha_content {
+    -ms-grid-columns: (1fr) [3];
+    grid-template-columns: repeat(3, 1fr);
+  }
+  .utente_banner_area {
+    background-size: cover;
+  }
+}
+
+@media all and (max-width: 450px) {
+  .codice_title .subContainer {
+    -webkit-box-pack: start;
+    -ms-flex-pack: start;
+    justify-content: flex-start;
+  }
+  .passenger_right_select .form-group input {
+    max-width: 300px;
+  }
+  .passe_btn button {
+    font-size: 18px;
+  }
+  .passenger_right_select .custom-select select {
+    width: 300px;
+  }
+  .calculate_price_btn .btn2 {
+    font-size: 18px;
+  }
+  .passe_btn button {
+    font-size: 18px;
+  }
+
+  .single_megha_items .form-check-label {
+    font-size: 13px;
+  }
+  .password_area {
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    row-gap: 25px;
+  }
+}
